@@ -1,0 +1,15 @@
+{
+  "title": "Corn Country",
+  "desc": "My first JavaScript game",
+
+  "status": "archived",
+  "version": "v1",
+
+  "date": "1/1/2023",
+
+  "tags": [
+    "javascript",
+    "game",
+    "retro"
+  ]
+}
